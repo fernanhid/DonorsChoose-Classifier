@@ -10,4 +10,4 @@ Process:
 4. Optimization: GridsearchCV
 5. Submission
 
-My best model was with Logistic Regression with an AUC score of .68
+The best model was Logistic Regression with an AUC score of .68
